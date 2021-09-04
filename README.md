@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Pundhir</h1>
 <h2 align="center">A passionate Android developer and a life long learner from India .</h2>
 
-- 🌱 I’m currently learning **Data structures and Algorithm Android development**
+- 🌱 I’m currently learning **Data structures ,Algorithm Android and development**
 
 - 📫 How to reach me **priyanshupundhir@gmail.com**
 
