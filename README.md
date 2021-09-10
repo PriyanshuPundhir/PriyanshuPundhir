@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Pundhir</h1>
-<h2 align="center">A passionate Android developer and a life long learner from India .</h2>
+<h2 align="center">A passionate Android developer and a life long learner. .</h2>
 
 - 🌱 I’m currently learning **Data structures ,Algorithm and Android  development**
 
