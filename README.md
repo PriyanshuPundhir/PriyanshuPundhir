@@ -3,7 +3,7 @@
 <h2 align="center">A passionate Android developer and a life long learner.</h2>
 
 
-<h4 align="center">- 🌱 I’m currently learning Data structures and Algorithm Android development</h4>
+<h4 align="center">- 🌱 I’m currently learning Data structures and Algorithm,Android development</h4>
 
 <h4 align="center">- 📫 How to reach me priyanshupundhir@gmail.com</h4>
 
