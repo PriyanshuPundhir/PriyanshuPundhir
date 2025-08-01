@@ -6,14 +6,10 @@
 <h4 align="center">- ☁️ Experienced with Azure (Functions, Data Factory, Logic Apps, Databricks) for automation and data pipelines</h4>
 <h4 align="center">- 🌱 Currently exploring advanced system design, backend optimization, and cloud-native architectures</h4>
 <h4 align="center">- 📫 Reach me at: priyanshupundhir@gmail.com</h4>
-<h4 align="center">- ⚡ Fun fact: I balance being a fitness freak 🏋️ and a foodie 🍕</h4>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/priyanshupundhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/pundhirpriyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.hackerrank.com/priyanshupundhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://instagram.com/priyanshupundhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">⚒️ Languages & Tools</h2>
